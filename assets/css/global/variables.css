@@ -1,0 +1,46 @@
+/* Variables */
+
+:root {
+  /* Colors */
+
+  /* Background */
+  --bg-primary: #001429;
+  --bg-secondary: #001c31;
+  --bg-tertiary: #ecedef;
+
+  /* Tonalidades de Cinza */
+  --color-gray1: #e2e4e7;
+  --color-gray2: #c3c8cd;
+  --color-gray3: #374455;
+  --color-gray4: #313d4b;
+  --color-gray5: #252e38;
+
+  /* Cores básicas */
+  --color-white: #fff;
+  --color-blue1: #49d0e9;
+  --color-blue2: #1f4287;
+
+  /* Fonts */
+
+  --f1: clamp(0.6rem, 1vw, 0.8rem);
+  --f2: clamp(0.8rem, 1vw, 1rem);
+  --f3: clamp(1rem, 1vw, 1.2rem);
+  --f4: clamp(1.2rem, 1vw, 1.5rem);
+  --f5: clamp(1.5rem, 1vw, 2rem);
+  --f6: clamp(2rem, 1vw, 4rem);
+  --f7: clamp(3rem, 1vw, 7rem);
+  --f8: clamp(6rem, 1vw, 9rem);
+
+  /* Transformas as unidades de medidas padrão de 1rem = 10px  */
+  font-size: 62.5%;
+}
+/* TODO */
+.themes-light {
+  --bg-primary: #fdfdfd;
+  --bg-secondary: #3d4c5e;
+
+  --font-color4: #0a0d10;
+  --font-color3: #1d242d;
+  --font-color2: #b9bbbe;
+  --font-color1: #252e38;
+}

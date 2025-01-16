@@ -1,0 +1,9 @@
+@import "../../global/global.css";
+
+@import "./partials/header.css";
+@import "./partials/section-home.css";
+@import "./partials/section-about.css";
+@import "./partials/section-skills.css";
+@import "./partials/section-project.css";
+@import "./partials/section-contact.css";
+@import "./partials/footer.css";
