@@ -33,6 +33,9 @@
 
   /* Transformas as unidades de medidas padrão de 1rem = 10px  */
   font-size: 62.5%;
+
+  /* Box Shadow */
+  --box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
 }
 /* TODO */
 .themes-light {
@@ -43,4 +46,7 @@
   --font-color3: #1d242d;
   --font-color2: #b9bbbe;
   --font-color1: #252e38;
+
+  /* Box Shadow */
+  --box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
